@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\Website - CodeNation"
+		}
+	],
+	"settings": {
+		"telemetry.enableCrashReporter": false,
+		"files.autoSave": "onWindowChange",
+		"liveServer.settings.multiRootWorkspaceName": "Website - CodeNation"
+	}
+}
