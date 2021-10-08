@@ -10,6 +10,6 @@
 	"settings": {
 		"telemetry.enableCrashReporter": false,
 		"files.autoSave": "onWindowChange",
-		"liveServer.settings.multiRootWorkspaceName": "Website - CodeNation"
+		"liveServer.settings.multiRootWorkspaceName": "Python_week1"
 	}
 }
